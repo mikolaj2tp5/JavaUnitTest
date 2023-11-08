@@ -59,7 +59,7 @@ class AuthBasicTest extends TestCase
         
         $exp = array(
             'addrIp' => $sensor->addrIp(), 'datetime' => date("Y-m-d H:i:s"),
-            'email' => "janh@testingmail.com", 'authCode' => "131313",
+            'email' => "miolajb@testingmail.com", 'authCode' => "131313",
             'opSystem' => $sensor->system(), 'browser' => $sensor->browser()
         );
 
