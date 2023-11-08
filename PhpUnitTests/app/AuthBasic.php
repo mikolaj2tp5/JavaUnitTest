@@ -5,7 +5,7 @@ require_once("libs/Sensor.php");
 
 /**
  * Klasa do autoryzacji jednorazowego dostępu do fragmentu serwisu
- * @author Jan Horodecki
+ * @author Mikołaj Borowski
  * @since 1.0
  */
 
